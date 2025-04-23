@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="right">I'm a professional procrastinator, part-time thinker, and full-time couch philosopher.</h2>
+<h0 align="right">I'm a professional procrastinator, part-time thinker, and full-time couch philosopher.</h0>
 
 ###
 
