@@ -1,8 +1,8 @@
-<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpoZ2c3YmVhOHliY2R0eTdweHRmMTU2aWxvNjRnZHR2aXdqdGhlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gobgTipA1CiBy/giphy.gif"  />
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpoZ2c3YmVhOHliY2R0eTdweHRmMTU2aWxvNjRnZHR2aXdqdGhlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gobgTipA1CiBy/giphy.gif"  />
 
 ###
 
-<h1 align="right">I'm a professional procrastinator, part-time thinker, and full-time couch philosopher.</h1>
+<h1 align="left">I'm a professional procrastinator, part-time thinker, and full-time couch philosopher.</h1>
 
 ###
 
